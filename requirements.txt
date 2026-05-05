@@ -1,0 +1,32 @@
+# Data processing
+pandas
+numpy
+kaggle
+pydantic
+
+# ML
+scikit-learn
+xgboost
+lightgbm
+catboost
+torch
+
+# Visualization
+matplotlib
+seaborn
+
+
+# Web
+Flask
+Flask-Cors
+fastapi
+
+# Save models
+joblib
+
+# Render
+gunicorn
+uvicorn
+
+#constraint solver for scheduling
+ortools
